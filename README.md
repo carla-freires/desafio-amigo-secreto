@@ -2,6 +2,9 @@
 
 Este é um projeto utilizado no curso de programação da Alura. Sorteio de nomes para um jogo de Amigo Secreto. O site permite adicionar nomes a uma lista e, em seguida, sortear os participantes de maneira aleatória.
 
+![image](https://github.com/user-attachments/assets/5d8c1c1d-f561-4605-9a4a-49cbe22cdbc0)
+
+
 ## Funcionalidades
 - Adicionar nomes a uma lista.
 - Exibir um alerta caso o nome inserido já esteja na lista.
